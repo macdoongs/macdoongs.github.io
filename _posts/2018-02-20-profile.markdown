@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Profile"
+permalink: /profile/
+---
+![My helpful screenshot]({{ "/assets/profile.jpg" | absolute_url }})
+
+A student developer majoring in computer science which changed its name to ‘software’.
+I am interested in Internet of Things(IoT), Artificial intelligence(AI) and Blockchain.
+I have experienced in developing web, android, server etc. And I also have a little knowledge about hardware.
+Furthermore, I am interested in startup companies. Thus I participated in making a startup ‘보기 드문 젊은이’ as a co-founder and SW developer. And I worked for a intern in ETRI and MMCN Lab.
+
+- Work Experience
+  - 보기 드문 젊은이
+  
+- Research Experience
+  - ETRI (Electronics and Telecommunications Research Institute)
+  - MMCN(Multimedia Mobile Communication Network)
