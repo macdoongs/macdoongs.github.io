@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Skills"
+permalink: /skills/
+---
+Programming: Node.js, Java, C/C++, Python, Go <br />
+
+Frontend: Vue.js, HTML, CSS, JavaScript <br />
+Backend: Restify, Express, Spring <br />
+
+Human Languages: English - Intermediate, Korean - Native <br />

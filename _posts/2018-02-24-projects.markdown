@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Projects"
+permalink: /projects/
+---
+
+2018.01 - 2018.02 <br />
+__System Light 2.0__ <br />
+
+[PDF](https://www.dropbox.com/s/xysh78i182w16o2/2018%20%EC%9D%B8%ED%84%B4%EC%8B%AD_%ED%8F%AC%EC%8A%A4%ED%84%B0_201120921_%EA%B9%80%EC%98%81%EB%AF%BC.pdf?dl=0) |
+[Demo](https://youtu.be/9VuwDgqlWEY) |
+[Code-Alexa](https://github.com/mac0314/alexa-custom-skill-light) |
+[Code-GiGAGenie](https://github.com/mac0314/GiGAGenie-smarthome-light)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VuwDgqlWEY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+------------------
+
+2017.09 - 2017.12 <br />
+__7Talk__ <br />
+
+[PDF](https://www.dropbox.com/s/i0mkfkmt3vl0fdv/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf?dl=0) |
+[Code](https://github.com/mac0314/7talk-API)
+
+------------------
+
+2017.09 - 2017.12 <br />
+__SDP__<br />
+
+[PDF](https://www.dropbox.com/s/pn6fifkmdounifu/%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf?dl=0) |
+[Code](https://github.com/mac0314/SDP-API)
+
+------------------
+
+2017.09 - 2017.10 <br />
+__AUC__ <br />
+
+[PDF](https://www.dropbox.com/s/phwna8mzz53zzff/%EC%9A%94%EC%95%BD%EB%B3%B4%EA%B3%A0%EC%84%9C%20AUC.pdf?dl=0) |
+[Code-Android](https://github.com/mac0314/AUC) |
+[Code-API](https://github.com/mac0314/AUC-API)
+
+------------------
+
+2017.03 - 2017.07 <br />
+__Pipette__ <br />
+
+[Link](http://www.pipette.xyz)
+
+<object data="http://www.pipette.xyz" width="800" height="500">
+<embed src=http://www.pipette.xyz width="800" height="500"></embed>
+</object>
+
+------------------
+
+2016.11 - 2017.02 <br />
+__MSG__ <br />
+
+[PDF](https://www.dropbox.com/s/p1jo4n53wnfxgl8/%EB%B6%80%EB%AA%A8%EC%83%9D%EA%B0%81%28MFG%29_2%EC%B0%A8%20PT.pdf?dl=0) |
+[Code-Android](https://github.com/mac0314/MSG) |
+[Code-API](https://github.com/mac0314/MSG-API)
+
+------------------
+
+2016.09 - 2016.10 <br />
+__PoC (Place of Chatting)__ <br />
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/10w94yfxqRATNW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+------------------
+
+2016.05 - 2016.06 <br />
+__BOT's OFFICE__ <br />
+
+[PDF](https://www.dropbox.com/s/izy4djyi804ffp0/BOTS%20OFFICE%20%EB%B0%9C%ED%91%9C.pdf?dl=0) |
+[Demo](https://www.youtube.com/watch?v=xObL-wuLFv8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xObL-wuLFv8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+------------------
+
+2015.10 - 2015.12 <br />
+__Library Security System__ <br />
+
+[PDF](https://www.dropbox.com/s/uz9ea04vkg9s4xg/%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf?dl=0) |
+[Demo](https://www.dropbox.com/sh/cjx3t7billef08e/AAB4OvqDKvmtwrRYd9x4Sf6ma?dl=0)
+
+------------------
+
+2015.05 - 2015.06 <br />
+__Tra-Pang__ <br />
+
+[PDF](https://www.dropbox.com/s/0l1if8a1l1akj8n/%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf?dl=0)
+
+------------------

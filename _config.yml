@@ -21,6 +21,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Macfield_ym
 github_username:  mac0314
+linkedin_name: mac0314
+
+google_analytics: UA-114537288-1
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
 
 # Build settings
 markdown: kramdown
