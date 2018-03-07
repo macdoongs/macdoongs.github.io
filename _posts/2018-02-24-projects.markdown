@@ -46,9 +46,8 @@ __Pipette__ <br />
 
 [Link](http://www.pipette.xyz)
 
-<object data="http://www.pipette.xyz" width="800" height="500">
-<embed src=http://www.pipette.xyz width="800" height="500"></embed>
-</object>
+<iframe src="http://www.pipette.xyz" width="800" height="500">
+</iframe>
 
 ------------------
 
