@@ -22,6 +22,8 @@ __7Talk__ <br />
 [PDF](https://www.dropbox.com/s/i0mkfkmt3vl0fdv/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf?dl=0) |
 [Code](https://github.com/mac0314/7talk-API)
 
+![7Talk flow]({{ "/assets/7talk.gif" | absolute_url }})
+
 ------------------
 
 2017.09 - 2017.12 <br />
@@ -29,6 +31,8 @@ __SDP__<br />
 
 [PDF](https://www.dropbox.com/s/pn6fifkmdounifu/%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf?dl=0) |
 [Code](https://github.com/mac0314/SDP-API)
+
+![SDP flow]({{ "/assets/sdp.gif" | absolute_url }})
 
 ------------------
 
@@ -38,6 +42,8 @@ __AUC__ <br />
 [PDF](https://www.dropbox.com/s/phwna8mzz53zzff/%EC%9A%94%EC%95%BD%EB%B3%B4%EA%B3%A0%EC%84%9C%20AUC.pdf?dl=0) |
 [Code-Android](https://github.com/mac0314/AUC) |
 [Code-API](https://github.com/mac0314/AUC-API)
+
+![AUC]({{ "/assets/auc.png" | absolute_url }})
 
 ------------------
 
@@ -57,6 +63,8 @@ __MSG__ <br />
 [PDF](https://www.dropbox.com/s/p1jo4n53wnfxgl8/%EB%B6%80%EB%AA%A8%EC%83%9D%EA%B0%81%28MFG%29_2%EC%B0%A8%20PT.pdf?dl=0) |
 [Code-Android](https://github.com/mac0314/MSG) |
 [Code-API](https://github.com/mac0314/MSG-API)
+
+![7Talk home]({{ "/assets/msg.gif" | absolute_url }})
 
 ------------------
 
@@ -83,11 +91,15 @@ __Library Security System__ <br />
 [PDF](https://www.dropbox.com/s/uz9ea04vkg9s4xg/%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf?dl=0) |
 [Demo](https://www.dropbox.com/sh/cjx3t7billef08e/AAB4OvqDKvmtwrRYd9x4Sf6ma?dl=0)
 
+![Library Security System]({{ "/assets/sec-lib.gif" | absolute_url }})
+
 ------------------
 
 2015.05 - 2015.06 <br />
 __Tra-Pang__ <br />
 
 [PDF](https://www.dropbox.com/s/0l1if8a1l1akj8n/%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf?dl=0)
+
+![Tra-pang]({{ "/assets/trapang.png" | absolute_url }})
 
 ------------------
