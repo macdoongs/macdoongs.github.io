@@ -50,9 +50,9 @@ __AUC__ <br />
 2017.03 - 2017.07 <br />
 __Pipette__ <br />
 
-[Link](https://www.pipette.xyz)
+[Link](https://www.pipet.me)
 
-<iframe src="https://www.pipette.xyz" width="800" height="500">
+<iframe src="https://www.pipet.me" width="800" height="500">
 </iframe>
 
 ------------------
