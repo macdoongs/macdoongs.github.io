@@ -5,4 +5,4 @@ permalink: /cv/
 ---
 [Link]
 
-[Link]: https://www.dropbox.com/s/h1aovw5mujpbzye/CV_Youngmin_Kim.pdf?dl=0
+[Link]: https://1drv.ms/b/s!AhPGiWwh_YAskYd6U4s_Cq1M0crYqA

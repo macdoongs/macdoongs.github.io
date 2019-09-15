@@ -4,6 +4,52 @@ title:  "Projects"
 permalink: /projects/
 ---
 
+2019.05 - Now <br />
+__DeFORA application (Android, iOS)__ <br />
+
+[Android](https://play.google.com/store/apps/details?id=com.defora) | [iOS]()
+
+------------------
+
+2019.07 - 2019.08 <br />
+__DeFORA Official Website__ <br />
+
+[Link](https://www.defora.io)
+
+------------------
+
+2019.07 - 2019.08 <br />
+__KoSAC Official Website__ <br />
+
+[Link](https://www.smartauth.kr)
+
+------------------
+
+2018.12 - 2019.01 <br />
+__Cryptocurrency Exchange Market (Korea Exchange)__ <br />
+Token market prototype
+
+------------------
+
+2018.11 - 2018.12 <br />
+__Cryptocurrency payment service (Bank of Korea)__ <br />
+Token Payment service for cafe
+
+------------------
+
+2018.10 - 2018.11 <br />
+__Blockchain concept verification (Financial Security Institute)__ <br />
+Aergo platform concept verification and testing scenario
+
+------------------
+
+
+2018.06 - 2018.10 <br />
+__Condoc prototype (KL-Net)__ <br />
+Blockchain logistics service
+
+------------------
+
 2018.03 - 2018.06 <br />
 __This Is Disaster__ <br />
 
@@ -12,7 +58,7 @@ __This Is Disaster__ <br />
 [Code-Client](https://github.com/mac0314/ThisIsDisaster) |
 [Code-Server](https://github.com/mac0314/ThisIsDisaster-API)
 
-[Link](http://www.thisisdisaster.com)
+<!-- [Link](http://www.thisisdisaster.com) -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tJvzVrSx_YM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -64,10 +110,10 @@ __AUC__ <br />
 2017.03 - 2017.07 <br />
 __Pipette__ <br />
 
-[Link](https://www.pipet.me)
+<!-- [Link](https://www.pipet.me) -->
 
-<iframe src="https://www.pipet.me" width="800" height="500">
-</iframe>
+<!-- <iframe src="https://www.pipet.me" width="800" height="500">
+</iframe> -->
 
 ------------------
 

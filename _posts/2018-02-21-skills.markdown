@@ -5,7 +5,8 @@ permalink: /skills/
 ---
 Programming: Node.js, Java, C/C++, Python, Go <br />
 
-Frontend: Vue.js, HTML, CSS, JavaScript <br />
+Frontend: React, Vue, HTML, CSS, JavaScript <br />
 Backend: Restify, Express, Spring <br />
+App: React Native
 
 Human Languages: English - Intermediate, Korean - Native <br />

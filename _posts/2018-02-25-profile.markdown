@@ -8,14 +8,16 @@ permalink: /profile/
 A student developer majoring in computer science which changed its name to ‘software’.
 I am interested in Internet of Things(IoT), Artificial intelligence(AI) and Blockchain.
 I have experienced in developing web, android, server etc. And I also have a little knowledge about hardware.
-Furthermore, I am interested in startup companies. Thus I participated in making a startup ‘보기 드문 젊은이’ as a co-founder and SW developer. And I worked for a intern in ETRI and MMCN Lab.
+Furthermore, I am interested in startup companies. Thus I participated in making a startup ‘보기 드문 젊은이’ as a co-founder and SW developer. And then I worked for a researcher in ETRI and MMCN Lab and a developer in Blocko and KoSAC.
 
 - Work Experience
+  - KoSAC (Korea Smart Authentication Corp.)
+  - BLOCKO
   - 보기 드문 젊은이
 
 - Research Experience
   - ETRI (Electronics and Telecommunications Research Institute)
-  - MMCN (Multimedia Mobile Communication Network)
+  - MMCN Lab (Multimedia Mobile Communication Network Lab) 
 
 
     [CV](https://www.dropbox.com/s/h1aovw5mujpbzye/CV_Youngmin_Kim.pdf?dl=0) |
