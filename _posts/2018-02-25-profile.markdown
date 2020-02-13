@@ -11,6 +11,7 @@ I have experienced in developing web, android, server etc. And I also have a lit
 Furthermore, I am interested in startup companies. Thus I participated in making a startup ‘보기 드문 젊은이’ as a co-founder and SW developer. And then I worked for a researcher in ETRI and MMCN Lab and a developer in Blocko and KoSAC.
 
 - Work Experience
+  - PearlAbyss
   - KoSAC (Korea Smart Authentication Corp.)
   - BLOCKO
   - 보기 드문 젊은이
@@ -20,7 +21,7 @@ Furthermore, I am interested in startup companies. Thus I participated in making
   - MMCN Lab (Multimedia Mobile Communication Network Lab) 
 
 
-    [CV](https://www.dropbox.com/s/h1aovw5mujpbzye/CV_Youngmin_Kim.pdf?dl=0) |
+    [CV](https://1drv.ms/b/s!AhPGiWwh_YAskYd6U4s_Cq1M0crYqA) |
     [Github](https://github.com/mac0314) |
     [SlideShare](https://www.slideshare.net/ssuser179afe) |
     [LinkedIn](https://www.linkedin.com/in/mac0314)
